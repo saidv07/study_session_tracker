@@ -4,12 +4,12 @@ Eine C#-Konsolenanwendung zur Erfassung und Auswertung von Lernzeiten.
 
 ## Funktionen
 
-- lernzeiten hinzufügen, anzeigen, bearbeiten und löschen
-- automatische berechnung der lerndauer
-- auswertung der gesmten lernzeit pro fach
-- speicherung in einer SQLite-Datenbank
-- überprüfung ungültiger Eingaben
-- automatisierte tests mit xUnit
+- Lernzeiten hinzufügen, anzeigen, bearbeiten und löschen
+- automatische Berechnung der Lerndauer
+- Auswertung der gesamten Lernzeit pro Fach
+- Speicherung in einer SQLite-Datenbank
+- Überprüfung ungültiger Eingaben
+- automatisierte Tests mit xUnit
 
 ## Technologien
 
